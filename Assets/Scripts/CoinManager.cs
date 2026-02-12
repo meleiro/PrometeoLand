@@ -3,7 +3,6 @@ using TMPro;
 
 public class CoinManager : MonoBehaviour
 {
-    [SerializeField] private TMP_Text coinsText;
-    
-    
+    [SerializeField] private TMP_Text coinsText; 
+   
 }
